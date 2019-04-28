@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VymaDiscordBotPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VymaDiscordBotPlugin_jar</output-path>
+    <root id="archive" name="VymaDiscordBotPlugin.jar">
+      <element id="module-output" name="VymaDiscordBotPlugin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../VymaPluginInterface/target/VPluginInterface.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

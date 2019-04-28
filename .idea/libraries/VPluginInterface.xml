@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VPluginInterface">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../VymaPluginInterface/target/VPluginInterface.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
